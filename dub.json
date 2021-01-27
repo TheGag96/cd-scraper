@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"TheGag96"
+	],
+	"copyright": "Copyright © 2021, TheGag96",
+	"dependencies": {
+		"arsd-official": "~>8.5.4",
+		"libnotify4d": "~>0.0.2"
+	},
+	"description": "Hacky script to search listings of CDs on Yahoo Auctions Japan",
+	"license": "none",
+	"name": "cd-scraper"
+}
